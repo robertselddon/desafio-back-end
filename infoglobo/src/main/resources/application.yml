@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: desafio-backend
+
+server:
+  port: 8080
+
+
+feeds:
+  url: http://revistaautoesporte.globo.com/rss/ultimas/feed.xml
